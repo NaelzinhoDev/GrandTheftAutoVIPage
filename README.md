@@ -8,7 +8,7 @@ O projeto simula uma página de cadastro para uma lista VIP de pré-venda, permi
 
 ## 📸 Preview
 
-![Preview do Projeto]([./src/assets/preview.png](https://grand-theft-auto-vi-page.vercel.app/))
+[![Preview do Projeto](./src/assets/preview.png)](https://grand-theft-auto-vi-page.vercel.app/)
 
 ---
 
